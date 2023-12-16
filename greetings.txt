@@ -1,3 +1,3 @@
-English: hi
+English: hello
 Italian: ciao
 
